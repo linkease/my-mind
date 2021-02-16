@@ -30,3 +30,8 @@ Do you want to participate?
 
 ## License
 [MIT](LICENSE.txt)
+
+## Links
+
+* [cdnjs](https://nobige.cn/post/20191116-qian_duan_cdn_zheng_li_he_ji/)
+
